@@ -15,8 +15,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 app:layout_scrollFlags="scroll|enterAlways"
-                android:background="@color/green"
-                android:minHeight="?attr/actionBarSize" />
+                android:background="@color/green" />
     </android.support.design.widget.AppBarLayout>
 
     <android.support.v7.widget.RecyclerView
@@ -32,6 +31,7 @@
         android:layout_gravity="end|bottom"
         android:layout_margin="10dp"
         android:src="@drawable/github"
+        app:layout_behavior="com.razor.hidetoolbaronscrollsample.behaviour.ScrollingFabBehavior"
         app:borderWidth="0dp" />
 
 </android.support.design.widget.CoordinatorLayout>
