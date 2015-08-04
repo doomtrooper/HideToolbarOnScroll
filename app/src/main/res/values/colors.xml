@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="transparent" type="color">#00FFFFFF</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="white_opaque" type="color">#4DFFFFFF</item>
+    <item name="white_opaque_80" type="color">#CCFFFFFF</item>
+    <item name="black" type="color">#333</item>
+    <item name="grey" type="color">#AAA</item>
+    <item name="light_grey" type="color">#F5F5F5</item>
+    <item name="dark_grey" type="color">#808080</item>
+    <item name="light_red" type="color">#FFCCCD</item>
+    <item name="red" type="color">#EB5E5E</item>
+    <item name="grey_green" type="color">#DCEDC8</item>
+    <item name="ocean_green" type="color">#009688</item>
+    <item name="dark_green" type="color">#558B2F</item>
+    <item name="light_green" type="color">#99FF99</item>
+    <item name="blue" type="color">#0288D1</item>
+    <item name="dark_blue" type="color">#282B3A</item>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <color name="medium_grey" type ="color">#E0E0E0</color>
+    <color name="Dark_orange" type="color">#F7941E</color>
+    <color name="window_background">#FFF5F5F5</color>
+
+    <!-- JifCash Assets colors -->
+    <item name="green" type="color">#20b4a1</item>
+    <item name="orange" type="color">#f06730</item>
+    <item name="dark_pink" type="color">#DC4A55</item>
+
+
+    <color name="primary">#EF5350</color>
+    <color name="secondary">#B71C1C</color>
+    <color name="overlay_light">#F8F8F8</color>
+    <item name="toolbar_color" type="color">#BDBDBD</item>
+    <item name="yellow" type="color">#FFFB00</item>
+    <item name="brown_green" type="color">#2D7820</item>
+</resources>
